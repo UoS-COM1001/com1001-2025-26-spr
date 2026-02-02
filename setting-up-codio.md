@@ -90,7 +90,7 @@ pages served at the URL until you restart Sinatra again.)
 ## 3. Running the Examples from this Repository on Codio
 
 On this GitHub repository there is a folder &mdash;
-[`code-examples`](./code-examples/README.md) &mdash; that contains a series of
+[`code-examples`](./code-examples/) &mdash; that contains a series of
 Sinatra code examples that will be discussed in lectures.
 
 To use them on Codio, you will need to clone this repository there. To do this,
