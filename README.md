@@ -65,7 +65,7 @@ Lecture and practical content for this module is front-loaded in weeks 1&ndash;5
 so that you have all the knowledge and expertise that you need to complete
 development and testing of the team project in the remainder of the semester.
 
-| Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](Spring-Project-Brief.md) | [Deadline](Spring-Project-Brief.md#assessment) |
+| Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](spring-project-brief.md) | [Deadline](spring-project-brief.md) |
 |-:|-|-|-|-|
 |1     | TBA | Code Jam | Sprint 1 |  |
 |2     | TBA | Code Jam |  |  |
