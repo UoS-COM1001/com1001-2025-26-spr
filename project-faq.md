@@ -1,6 +1,6 @@
 # Project FAQ
 
-Please note that the [project brief](Spring-Project-Brief.md) is the definitive guide - I have added content here to clarify questions that have been asked (initially in previous years). 
+Please note that the [project brief](spring-project-brief.md) is the definitive guide - I have added content here to clarify questions that have been asked (initially in previous years). 
 If there appear to be any conflicts, then the project brief wins.
 
 This is a *living* document. Newer Questions will be added at the top, so if you have read this once, then you should only need to check the first questions.
@@ -131,3 +131,4 @@ Create documents for testing, etc. and check them into GitLab as well.
 
 Please use the Discussion Board/Forum. 
 Only if the question is confidential/private, then please contact your Team Facilitator or me (Donghwan).
+
