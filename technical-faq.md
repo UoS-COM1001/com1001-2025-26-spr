@@ -288,13 +288,18 @@ unable to provide support for students' individual machines, since fixing
 individual machine setups is very time consuming and our priority is helping
 with programming questions and issues.
 
-Yet, we also appreciate that Codio is not everyone's cup of tea. So here is a
-guide to getting everything running on your own machine.
+### But ...
 
-I should warn you that you need to (a) be competent and confident with
-administering software and its dependencies on your own machine, and that (b) we
-are unable to provide specific help with these instructions and your device
-&mdash; for all the reasons we provide Codio in the first place.
+However, we also appreciate that Codio is not everyone's cup of tea,
+particularly if you're comfortable with configuring your own
+machine &mdash; and especially if it's of the Unix-y variety (Linux, MacOS,
+WSL). (That is, anything but plain Windows!)
+
+So here is a guide to getting everything running on your own machine.
+
+I should warn you that we're only able to provide limited help with these
+instructions and your device, for all the reasons we provided Codio in the
+first place.
 
 **So this is all entirely optional and done at your own risk!**
 
