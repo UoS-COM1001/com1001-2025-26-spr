@@ -7,7 +7,7 @@ This FAQ is organised into the following sections. Some questions fit more than 
 1. [When You Have a Question](#1-when-you-have-a-question)
 2. [Problems Running Code with Codio](#2-problems-running-code-with-codio)
 3. [Problems with Git](#3-problems-with-git)
-4. [Using Codio](#4-using-codio)
+4. [Do I Need to Use Codio?](#4-do-i-need-to-use-codio)
 
 If you're certain your issue doesn't seem to appear on the page, check the next section "[How to Ask Questions](#questions)", first.
 
@@ -264,12 +264,7 @@ Other possible reasons:
   Sheffield computer account username in the body of the email.
 
 
-## 4. Using Codio
-
-### I've heard it's possible to use VSCode on Codio. Is that true?
-
-Yes! See the [final section in the Setting Up Codio instructions](./setting-up-codio.md#5-using-vscode).
-
+## 4. Do I Need to Use Codio?
 
 ### I don't really like Codio. Can I use my own machine to develop on instead?
 
