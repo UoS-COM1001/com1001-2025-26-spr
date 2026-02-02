@@ -47,8 +47,8 @@ you've given following the instructions in the answer a go.) Either way, we're a
 very friendly teaching team, and we're happy to take your questions, so don't be
 afraid to ask or talk to us!
 
-The [Group Project Brief](spring-project-brief.md) will give necessary details
-about your group project and assessments. If you have any questions regarding
+The [Team Project Brief](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) will give necessary details
+about your team project and assessments. If you have any questions regarding
 that, please consult the [Project FAQ](project-faq.md) and use the Discussion
 Board/Forum.
 
@@ -65,7 +65,7 @@ Lecture and practical content for this module is front-loaded in weeks 1&ndash;5
 so that you have all the knowledge and expertise that you need to complete
 development and testing of the team project in the remainder of the semester.
 
-| Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](spring-project-brief.md) | [Deadline](spring-project-brief.md) |
+| Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) | [Deadline](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) |
 |-:|-|-|-|-|
 |1     | TBA | Code Jam | Sprint 1 |  |
 |2     | TBA | Code Jam |  |  |
@@ -100,7 +100,7 @@ Where exactly and what we will do depends on the week:
 #### Weeks 1&ndash;5
 In weeks 1&ndash;5, the practical sessions consist of **code jams**. You will
 sit with your teammates and work through applying that week's lecture material
-to your group project. 
+to your team project. 
 
 If you've got as far as you can, there will also be further coding exercises to
 help you sharpen your skills. 
@@ -134,7 +134,7 @@ use the space to work simultaneously in your teams.
 
 Each team will have timetabled scrum meetings once a week, **starting in week 1 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 2-3pm in Computer Room 3 (second floor) or Computer Room 5 (ground floor)** of the Diamond. Check out the [seating plan](misc/cr3-cr5-scrum-meetings.pdf) to find out where you need to be.
 
-Each team will be allocated a supervisor (a member of the department's teaching staff). Your team supervisor will check-in with you to see how your project is going during the scrum meetings. See the [Team Project Brief](Spring-Project-Brief.md) for more details.
+Each team will be allocated a supervisor (a member of the department's teaching staff). Your team supervisor will check-in with you to see how your project is going during the scrum meetings. See the [Team Project Brief](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) for more details.
 
 Note: your team supervisor will focus on monitoring your progress and teamwork, *not* providing technical advice on your project. Technical advice will be available (via the demonstrators) in the scheduled practical sessions listed above.
 -->
