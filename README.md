@@ -1,4 +1,4 @@
-# COM1001: Introduction to Software Engineering &mdash; 2024/25 Spring Semester
+# COM1001: Introduction to Software Engineering &mdash; 2025/26 Spring Semester
 
 Welcome! This repository contains information, slides and practical sheets, to
 support the Spring Semester of the COM1001 module "Introduction to Software
@@ -26,7 +26,7 @@ onto your own machine and on Codio.
 To do that, you need to issue the following command in a terminal window:
 
 ```console
-git clone https://github.com/UoS-COM1001/com1001-2024-25-spr.git
+git clone https://github.com/UoS-COM1001/com1001-2025-26-spr.git
 ```
 
 ### 2.2 Your Codio Setup
