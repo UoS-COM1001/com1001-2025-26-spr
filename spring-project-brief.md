@@ -1,0 +1,1 @@
+The project brief, following the University assessment brief template, is available [here](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) (TUOS login required).
