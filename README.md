@@ -72,13 +72,14 @@ development and testing of the team project in the remainder of the semester.
 |3     | TBA | Code Jam | Sprint 2 |  |
 |4     | TBA | Code Jam |  |  |
 |5     | TBA | Code Jam | Sprint 3 |  |
-|6     | *No lectures* | Technical Help |  |  |
+|6     | *No lectures* | Technical Help |  | Fri 20 Mar 3pm (Project) |
 |7     | *No lectures* | Technical Help | Sprint 4 |  |
 |Easter|
 |8     | TBA | Technical Help |  |  |
 |9     | *No lectures* | Technical Help | Sprint 5 |  |
 |10    | *No lectures* | Technical Help |  |  |
-|11    | *No lectures* | Technical Help |  |  |
+|11    | *No lectures* | Technical Help |  | Fri 15 May 3pm (Project) |
+|12    | *No lectures* | *No session* |  | Fri 22 May 3pm (Peer Assessment) |
 
 ### Lectures
 
