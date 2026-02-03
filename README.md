@@ -99,24 +99,22 @@ Practical sessions will be held on *Thursdays 3&ndash;4pm*. Where exactly and wh
 #### Weeks 1&ndash;5
 In weeks 1&ndash;5, the practical sessions consist of **code jams**. You will
 sit with your teammates and work through applying that week's lecture material
-to your team project. If you've got as far as you can, there will also be further coding exercises to
-help you sharpen your skills. 
-You will need to bring your own laptop to this session, or use the laptop loan facility.
+to your team project. If you've got as far as you can, there will also be
+further coding exercises to help you sharpen your skills. You will need to bring
+your own laptop to this session, or use the laptop loan facility.
 
-<!--
-Where you go and where you sit depends on which team you're in:
-* **Teams 1&ndash;23** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/cr3-practicals.pdf).
-* **Teams 24&ndash;47** need to go to **Computer Room 5** on the ground floor, and follow the [seating plan for CR5](misc/cr5-practicals.pdf).
-
- [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**.
--->
+Code jams will be held in the
+[Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans).
+Where exactly you go, and where you sit, depends on which team you're in:
+* **Teams 1&ndash;17** need to go to **Computer Room 3** on the second floor,
+  and follow the [seating plan for CR3](misc/cr3-practicals.pdf).
+* **Teams 18&ndash;38** need to go to **Computer Room 5** on the ground floor,
+  and follow the [seating plan for CR5](misc/cr5-practicals.pdf).
 
 #### Weeks 6&ndash;11
 
-In weeks 6&ndash;11, the practical session will take the form of an (optional, 
-drop-in) technical help session. 
-
-It will be held in the
+In weeks 6&ndash;11, the practical session will take the form of an (optional,
+drop-in) technical help session. It will be held in the
 **[Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans),
 Computer Room 3**.
 
