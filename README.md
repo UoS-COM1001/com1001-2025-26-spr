@@ -72,13 +72,13 @@ development and testing of the team project in the remainder of the semester.
 |3     | TBA | Code Jam | Sprint 2 |  |
 |4     | TBA | Code Jam |  |  |
 |5     | TBA | Code Jam | Sprint 3 |  |
-|6     | *No lectures* | Drop-In Session |  |  |
-|7     | *No lectures* | Drop-In Session | Sprint 4 |  |
+|6     | *No lectures* | Technical Help |  |  |
+|7     | *No lectures* | Technical Help | Sprint 4 |  |
 |Easter|
 |8     | TBA | *No session* |  |  |
-|9     | *No lectures* | Drop-In Session | Sprint 5 |  |
-|10    | *No lectures* | Drop-In Session |  |  |
-|11    | *No lectures* | Drop-In Session |  |  |
+|9     | *No lectures* | Technical Help | Sprint 5 |  |
+|10    | *No lectures* | Technical Help |  |  |
+|11    | *No lectures* | Technical Help |  |  |
 
 ### Lectures
 
@@ -117,8 +117,8 @@ Where you go and where you sit depends on which team you're in:
 
 #### Weeks 6&ndash;11
 
-In weeks 6&ndash;11, the practical session will take the form of an (optional)
-drop-in session. 
+In weeks 6&ndash;11, the practical session will take the form of an (optional, 
+drop-in) technical help session. 
 
 It will be held in the
 **[Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans),
