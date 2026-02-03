@@ -75,7 +75,7 @@ development and testing of the team project in the remainder of the semester.
 |6     | *No lectures* | Technical Help |  |  |
 |7     | *No lectures* | Technical Help | Sprint 4 |  |
 |Easter|
-|8     | TBA | *No session* |  |  |
+|8     | TBA | Technical Help |  |  |
 |9     | *No lectures* | Technical Help | Sprint 5 |  |
 |10    | *No lectures* | Technical Help |  |  |
 |11    | *No lectures* | Technical Help |  |  |
