@@ -107,9 +107,9 @@ Code jams will be held in the
 [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans).
 Where exactly you go, and where you sit, depends on which team you're in:
 * **Teams 1&ndash;17** need to go to **Computer Room 3** on the second floor,
-  and follow the [seating plan for CR3](misc/cr3-practicals.pdf).
+  and follow the [seating plan for CR3](misc/cr3-codejam.pdf).
 * **Teams 18&ndash;38** need to go to **Computer Room 5** on the ground floor,
-  and follow the [seating plan for CR5](misc/cr5-practicals.pdf).
+  and follow the [seating plan for CR5](misc/cr5-codejam.pdf).
 
 #### Weeks 6&ndash;11
 
