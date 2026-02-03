@@ -94,18 +94,13 @@ the quizzes.
 
 ### Practical Sessions
 
-Practical sessions will be held on *Thursdays 3&ndash;4pm*.
-
-Where exactly and what we will do depends on the week:
+Practical sessions will be held on *Thursdays 3&ndash;4pm*. Where exactly and what we will do depends on the week:
 
 #### Weeks 1&ndash;5
 In weeks 1&ndash;5, the practical sessions consist of **code jams**. You will
 sit with your teammates and work through applying that week's lecture material
-to your team project. 
-
-If you've got as far as you can, there will also be further coding exercises to
+to your team project. If you've got as far as you can, there will also be further coding exercises to
 help you sharpen your skills. 
-
 You will need to bring your own laptop to this session, or use the laptop loan facility.
 
 <!--
