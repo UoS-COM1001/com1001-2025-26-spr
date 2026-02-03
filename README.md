@@ -67,13 +67,13 @@ development and testing of the team project in the remainder of the semester.
 
 | Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) | [Deadline](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) |
 |-:|-|-|-|-|
-|1     | TBA | Code Jam | Sprint 1 |  |
-|2     | TBA | Code Jam |  |  |
-|3     | TBA | Code Jam | Sprint 2 |  |
-|4     | TBA | Code Jam |  |  |
-|5     | TBA | Code Jam | Sprint 3 |  |
-|6     | *No lectures* | Technical Help |  | Fri 20 Mar 3pm (Project) |
-|7     | *No lectures* | Technical Help | Sprint 4 |  |
+|1     | TBA | Code Jam |  |  |
+|2     | TBA | Code Jam | Sprint 1 |  |
+|3     | TBA | Code Jam | Sprint 1 |  |
+|4     | TBA | Code Jam | Sprint 1 |  |
+|5     | TBA | Code Jam | Sprint 2 |  |
+|6     | *No lectures* | Technical Help | Sprint 2 | Fri 20 Mar 3pm (Project) |
+|7     | *No lectures* | Technical Help | Sprint 3 |  |
 |Easter|
 |8     | TBA | Technical Help |  |  |
 |9     | *No lectures* | Technical Help | Sprint 5 |  |
