@@ -122,7 +122,7 @@ repository directory listed in it.
 To clone your team's repository, you'll need to run the command:
 
 ```console
-git clone git@git.shefcompsci.org.uk:com1001-2024-25/teamXX/project.git
+git clone git@git.shefcompsci.org.uk:com1001-2025-26/teamXX/project.git
 ```
 
 replacing `XX` in the command with your two-digit team number (if you're in team
