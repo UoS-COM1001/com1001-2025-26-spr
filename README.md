@@ -69,7 +69,7 @@ development and testing of the team project in the remainder of the semester.
 |-:|-|-|-|-|
 |1     | <strong>Hello!</strong><ul><li>Introduction to the Spring Semester</li><li>The Group Project in the Spring Semester</li><li>Is Software Engineering Dead?</li></ul> | Code Jam |  |  |
 |2     | <strong>Foundations</strong><ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul> | Code Jam | Sprint 1 |  |
-|3     | TBA | Code Jam | Sprint 1 |  |
+|3     | <strong>Testing</strong><ul><li>Why Doesn't Software Work?</li><li>An Introduction To Testing</li></ul><strong>Forms and Sessions</strong><ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | Code Jam | Sprint 1 |  |
 |4     | TBA | Code Jam | Sprint 2 |  |
 |5     | TBA | Code Jam | Sprint 2 |  |
 |6     | *No lectures* | Technical Help | Sprint 2 | Fri 20 Mar 3pm (Project) |
