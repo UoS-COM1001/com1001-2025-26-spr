@@ -81,7 +81,7 @@ development and testing of the team project in the remainder of the semester.
 |11    | *No lectures* | Technical Help | Sprint 4 | Fri 15 May 3pm (Project) |
 |12    | *No lectures* | *No session* |  | Fri 22 May 3pm (Peer Assessment) |
 
-### Lectures
+### Lectures (Tuesdays and Wednesdays)
 
 Lectures will be held on *Tuesdays 11am&ndash;1pm* in **St George's Church** and
 Wednesdays 12&ndash;1pm in the
@@ -92,7 +92,20 @@ There will be a break during 2 hour lectures, and also a (non-assessed) team
 quiz. There will be a prize in week 5 for the team that performs best overall in
 the quizzes.
 
-### Practical Sessions
+
+
+### Scrum Meetings (Tuesdays)
+
+Each team will have timetabled scrum meetings once a week, **starting in week 1 and finishing in week 11**. 
+These meetings will happen on **Tuesday afternoons between 3-4pm in Computer Room 3 (second floor) or Computer Room 5 (ground floor)** of the Diamond. 
+Check out the [seating plan](https://drive.google.com/file/d/1Axwrs3dKyOuKeeC-M931cKllqghp3QHe/view?usp=sharing) to find out where you need to be.
+
+Each team will be allocated a facilitator (a member of the department's teaching staff), who will monitor your weekly progress. 
+See the [Team Project Brief](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) for more details.
+
+
+
+### Practical Sessions (Thursdays)
 
 Practical sessions will be held on *Thursdays 3&ndash;4pm*. Where exactly and what we will do depends on the week:
 
@@ -122,13 +135,3 @@ Here, you can talk to us about any technical problems you're experiencing with
 your code, or ask any other question you like (e.g., re-explaining lecture
 content) and we'll endeavour to help. The whole room will be reserved so you can
 use the space to work simultaneously in your teams.
-
-<!--
-### Scrum Meetings
-
-Each team will have timetabled scrum meetings once a week, **starting in week 1 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 2-3pm in Computer Room 3 (second floor) or Computer Room 5 (ground floor)** of the Diamond. Check out the [seating plan](misc/cr3-cr5-scrum-meetings.pdf) to find out where you need to be.
-
-Each team will be allocated a supervisor (a member of the department's teaching staff). Your team supervisor will check-in with you to see how your project is going during the scrum meetings. See the [Team Project Brief](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) for more details.
-
-Note: your team supervisor will focus on monitoring your progress and teamwork, *not* providing technical advice on your project. Technical advice will be available (via the demonstrators) in the scheduled practical sessions listed above.
--->
