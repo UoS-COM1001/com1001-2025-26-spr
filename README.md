@@ -68,7 +68,7 @@ development and testing of the team project in the remainder of the semester.
 | Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) | [Deadline](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) |
 |-:|-|-|-|-|
 |1     | <strong>Hello!</strong><ul><li>Introduction to the Spring Semester</li><li>The Group Project in the Spring Semester</li><li>Is Software Engineering Dead?</li></ul> | Code Jam |  |  |
-|2     | TBA | Code Jam | Sprint 1 |  |
+|2     | <strong>Foundations</strong><ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul> | Code Jam | Sprint 1 |  |
 |3     | TBA | Code Jam | Sprint 1 |  |
 |4     | TBA | Code Jam | Sprint 2 |  |
 |5     | TBA | Code Jam | Sprint 2 |  |
