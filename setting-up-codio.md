@@ -12,8 +12,8 @@
 ## 1. Logging into Codio
 
 Go to [COM1001 on
-Blackboard](https://vle.shef.ac.uk/ultra/courses/_116942_1/outline). Scroll down
-to "Learning Materials: Semester 2", and reveal the contents. Then click 
+Blackboard](https://vle.shef.ac.uk/ultra/courses/_123447_1/outline). Scroll down
+to "Learning Materials&mdash;Semester 2", and reveal the contents. Then click 
 "Log into Codio".
 
 This should load your personal "project" on Codio. This will be where you do
