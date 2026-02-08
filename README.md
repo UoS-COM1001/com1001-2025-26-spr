@@ -67,7 +67,7 @@ development and testing of the team project in the remainder of the semester.
 
 | Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) | [Deadline](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) |
 |-:|-|-|-|-|
-|1     | <strong>Hello!</strong><ul><li>Introduction to the Spring Semester</li><li>The Group Project in the Spring Semester</li><li>Is Software Engineering Dead?</li></ul> | Code Jam |  |  |
+|1     | <strong>Hello!</strong><ul><li>Introduction to the Spring Semester</li><li>[The Group Project in the Spring Semester](slides/w1-DS-team-project.pdf)</li><li>Is Software Engineering Dead?</li></ul> | Code Jam |  |  |
 |2     | <strong>Foundations</strong><ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul> | Code Jam | Sprint 1 |  |
 |3     | <strong>Testing</strong><ul><li>Why Doesn't Software Always Work?</li><li>Why We Need To Write Automated Tests and How</li></ul><strong>Forms and Sessions</strong><ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | Code Jam | Sprint 1 |  |
 |4     | <strong>Databases</strong><ul><li>Why Do We Need Databases?</li><li>Object Relational Mapping</li><li>Data Confidentiality</li></ul> | Code Jam | Sprint 2 |  |
