@@ -137,6 +137,14 @@ the `project` directory before you do this, so that you don't create an
 application in the wrong place. You can then commit and push these files back to
 the repository.
 
+Before you do anything else, make sure to update your git settings (`user.name` and 
+`user.email`) so that they match your GitLab profile (replacing the parts in 
+square brackets with your personal information:
+```
+git config user.name "[FULL_NAME (as shown on GitLab)]"
+git config user.email "[YOUR_EMAIL]@sheffield.ac.uk"
+```
+
 Check you can commit, push, and pull files to and from the repository correctly
 using the appropriate commands.
 
