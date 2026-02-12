@@ -75,7 +75,10 @@ This command will start a web server that is serving your application. If you
 did everything correctly, then as part of the blurb outputted by the command
 will be a yellow link that starts with `https:// ...` and ends with
 `-4567.codio.io/hello-world`. Clicking this link opens a new browser window that
-"runs" the code you just wrote and outputs the message "Hello, World!".
+"runs" the code you just wrote and in the browser you should see the message "Hello, World!".
+
+If you're getting a "401 error" instead, see how to fix it [here on the techincal FAQ](technical-faq.md#when-i-run-my-web-application-or-an-example-codio-displays-a-401-authorization-required-message-instead-of-the-proper-web-page). 
+(Hint: the easiest thing is just to use a different browser.)
 
 <!--
 An alternative way to start the web server is to click the "Run" button that is
