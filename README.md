@@ -65,7 +65,7 @@ Lecture and practical content for this module is front-loaded in weeks 1&ndash;5
 so that you have all the knowledge and expertise that you need to complete
 development and testing of the team project in the remainder of the semester.
 
-| Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) | [Deadline](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) |
+| Week | [Lecture Content](#lectures-tuesdays-and-wednesdays) | [Practical Session](#practical-sessions) | [Scrum Meeting](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) | [Deadline](https://docs.google.com/document/d/1XnPWhO-lEBKgKVnu1H7qYSPGQHJFqtnQITdZI5M6Rgg/edit?usp=sharing) |
 |-:|-|-|-|-|
 |1     | <strong>Hello!</strong><ul><li>[Introduction to the Spring Semester](slides/w1-intro.pdf)</li><li>[The Group Project in the Spring Semester](slides/w1-team-project.pdf)</li><li>[Is Software Engineering Dead?](slides/w1-future-of-se.pdf)</li></ul> | [Code Jam](jams/w1.md) |  |  |
 |2     | <strong>Foundations</strong><ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul> | Code Jam | Sprint 1 |  |
