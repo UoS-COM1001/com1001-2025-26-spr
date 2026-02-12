@@ -9,6 +9,16 @@ If you're certain your issue doesn't seem to appear on the page, check "[How to 
 If you think an issue needs to be added to this FAQ, [contact Donghwan Shin](mailto:d.shin@sheffield.ac.uk).
 
 
+### How/Where to upload meeting minutes in GitLab?
+
+Create a directory named `meeting-minutes` and upload your notes (e.g., `2026-02-12.md`) to that folder.
+
+
+### Anything specific to add in the Team Operating Agreement?
+
+Following the [template (and the included example)](https://docs.google.com/document/d/1P8iJzSOMmNrrAg1PFk8EaNHczwZWpWJm/edit?usp=sharing&ouid=110276789189860516501&rtpof=true&sd=true) would be enough.
+
+
 ### Which browser should we use?
 
 This should not affect your application. However, we will use Chrome for marking.
@@ -131,4 +141,5 @@ Create documents for testing, etc. and check them into GitLab as well.
 
 Please use the Discussion Board/Forum. 
 Only if the question is confidential/private, then please contact your Team Facilitator or me (Donghwan).
+
 
