@@ -150,7 +150,7 @@ using the appropriate commands.
 
 If you are experiencing problems with this step, check out the technical FAQ
 &mdash; [I cannot clone my team's
-repository](./technical-FAQ.md#i-cannot-clone-my-teams-repository).
+repository](./technical-faq.md#i-cannot-clone-my-teams-repository).
 
 ## 5. Using VSCode
 
