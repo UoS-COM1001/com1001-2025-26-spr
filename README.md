@@ -69,9 +69,9 @@ development and testing of the team project in the remainder of the semester.
 |-:|-|-|-|-|
 |1     | <strong>Hello!</strong><ul><li>[Introduction to the Spring Semester](slides/w1-intro.pdf)</li><li>[The Group Project in the Spring Semester](slides/w1-team-project.pdf)</li><li>[Is Software Engineering Dead?](slides/w1-future-of-se.pdf)</li></ul> | [Code Jam](jams/w1.md) |  |  |
 |2     | <strong>Foundations</strong><ul><li>[Web servers and HTTP](./slides/w2-webservers-and-http.pdf)</li><li>[An Introduction to Sinatra](./slides/w2-sinatra.pdf)</li><li>[Controllers](./slides/w2-controllers.pdf)</li><li>[Views](./slides/w2-views.pdf)</li><li>[Queries](./slides/w2-queries.pdf)</li></ul> | <ul><li>[Code Jam](./jams/w2.md)</li><li>[Coding Challenges](./challenges/w2.md)</li></ul> | Sprint 1 |  |
-|3     | <strong>Testing</strong><ul><li>Why Doesn't Software Always Work?</li><li>Why We Need To Write Automated Tests and How</li></ul><strong>Forms and Sessions</strong><ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | Code Jam | Sprint 1 |  |
+|3     | <strong>Forms and Sessions</strong><ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | Code Jam | Sprint 1 |  |
 |4     | <strong>Databases</strong><ul><li>Why Do We Need Databases?</li><li>Object Relational Mapping</li><li>Data Confidentiality</li></ul> | Code Jam | Sprint 2 |  |
-|5     | <strong>Testing (Part 2) and Debugging</strong><ul><li>Test Scope</li><li>Unit &amp; Integration Testing of Web Applications with RSpec</li><li>Acceptance Testing with RSpec</li><li>Test Coverage</li><li>Debugging &mdash; Strategies For Success</li></ul>| Code Jam | Sprint 2 |  |
+|5     | <strong>Testing and Debugging</strong><ul><li>Why Doesn't Software Always Work?</li><li>Why We Need To Write Automated Tests and How</li><li>Test Scope</li><li>Unit &amp; Integration Testing of Web Applications with RSpec</li><li>Acceptance Testing with RSpec</li><li>Test Coverage</li><li>Debugging &mdash; Strategies For Success</li></ul>| Code Jam | Sprint 2 |  |
 |6     | *No lectures* | Technical Help | Sprint 2 | Fri 20 Mar 3pm (Project) |
 |7     | *No lectures* | Technical Help | Sprint 3 |  |
 |Easter|
