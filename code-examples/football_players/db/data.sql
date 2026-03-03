@@ -1,4 +1,4 @@
-INSERT INTO players VALUES(1,'Dominic','Calvert-Lewin','M','1997-03-16','England','Forward','Everton');
+INSERT INTO players VALUES(1,'Dominic','Calvert-Lewin','M','1997-03-16','England','Forward','Leeds United');
 INSERT INTO players VALUES(2,'Mary','Earps','F','1993-03-07','England','Goalkeeper','Manchester United');
 INSERT INTO players VALUES(3,'Harry','Kane','M','1993-07-28','England','Forward','Bayern Munich');
 INSERT INTO players VALUES(4,'Ashley','Lawrence','F','1995-06-11','Canada','Midfielder','Chelsea');
