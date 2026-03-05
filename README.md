@@ -78,8 +78,8 @@ development and testing of the team project in the remainder of the semester.
 |8     | <strong>Software Maintenance</strong><ul><li>Refactoring</li></ul> | Technical Help | Sprint 3 |  |
 |9     | *No lectures* | Technical Help | Sprint 4 |  |
 |10    | *No lectures* | Technical Help | Sprint 4 |  |
-|11    | *No lectures* | Technical Help | Sprint 4 | Fri 15 May 3pm (Project) |
-|12    | *No lectures* | *No session* |  | Fri 22 May 3pm (Peer Assessment) |
+|11    | *No lectures* | Technical Help | Sprint 4 | Mon 18 May 3pm (Project) |
+|12    | *No lectures* | *No session* |  | Mon 25 May 3pm (Peer Assessment) |
 
 ### Lectures (Tuesdays and Wednesdays)
 
