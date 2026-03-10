@@ -71,12 +71,12 @@ development and testing of the team project in the remainder of the semester.
 |2     | <strong>Foundations</strong><ul><li>[Web servers and HTTP](./slides/w2-webservers-and-http.pdf)</li><li>[An Introduction to Sinatra](./slides/w2-sinatra.pdf)</li><li>[Controllers](./slides/w2-controllers.pdf)</li><li>[Views](./slides/w2-views.pdf)</li><li>[Queries](./slides/w2-queries.pdf)</li></ul> | <ul><li>[Code Jam](./jams/w2.md)</li><li>[Coding Challenges](./challenges/w2.md)</li></ul> | Sprint 1 |  |
 |3     | <strong>Forms and Sessions</strong><ul><li>[Forms &mdash; the basics](slides/w3-forms.pdf)</li><li>[Sanitisation & Validation](slides/w3-sanitisation-and-validation.pdf)</li><li>[GET and POST](slides/w3-forms-get-and-post.pdf)</li><li>[Sessions](slides/w3-sessions.pdf)</li></ul> <strong>Databases</strong><ul><li>[Introduction to Databases and Why We Need Them](slides/w3-databases.pdf)</li></ul> | <ul><li>[Code Jam](jams/w3.md)</li><li>[Coding Challenges](challenges/w3.md)</li></ul> | Sprint 1 |  |
 |4     | <strong>Databases continued</strong><ul><li>[Object Relational Mapping](slides/w4-orm.pdf)</li><li>[Data Confidentiality](slides/w4-data-confidentiality.pdf)</li></ul> | <ul><li>[Code Jam](jams/w4.md)</li><li>[Coding Challenges](challenges/w4.md)</li></ul> | Sprint 2 |  |
-|5     | <strong>Testing and Debugging</strong><ul><li>Why Doesn't Software Always Work?</li><li>Why We Need To Write Automated Tests and How</li><li>Test Scope</li><li>Unit &amp; Integration Testing of Web Applications with RSpec</li><li>Acceptance Testing with RSpec</li><li>Test Coverage</li><li>Debugging &mdash; Strategies For Success</li></ul>| Code Jam | Sprint 2 |  |
+|5     | <strong>Testing</strong><ul><li>[Why We Need To Write Automated Tests and How](slides/w5-automated-testing.pdf)</li><li>[Test Scope](slides/w5-test-scope.pdf)</li><li>[Unit &amp; Integration Testing of Web Applications with RSpec](slides/w5-unit-integration-rspec.pdf)</li><li>[Acceptance Testing with RSpec](slides/w5-acceptance-testing-with-rspec.pdf)</li><li>[Test Coverage](slides/w5-test-coverage.pdf)</li></ul>| [Code Jam](jams/w5.md) | Sprint 2 |  |
 |6     | *No lectures* | Technical Help | Sprint 2 | Fri 20 Mar 3pm (Project) |
 |7     | *No lectures* | Technical Help | Sprint 3 |  |
 |Easter|
-|8     | <strong>Software Maintenance</strong><ul><li>Refactoring</li></ul> | Technical Help | Sprint 3 |  |
-|9     | *No lectures* | Technical Help | Sprint 4 |  |
+|8     | <strong>Debugging &amp; Maintenance</strong><ul><li>Debugging &mdash; Strategies For Success</li><li>Refactoring</li></ul> | Technical Help | Sprint 3 |  |
+9     | *No lectures* | Technical Help | Sprint 4 |  |
 |10    | *No lectures* | Technical Help | Sprint 4 |  |
 |11    | *No lectures* | Technical Help | Sprint 4 | Mon 18 May 3pm (Project) |
 |12    | *No lectures* | *No session* |  | Mon 25 May 3pm (Peer Assessment) |
