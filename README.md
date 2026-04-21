@@ -75,7 +75,7 @@ development and testing of the team project in the remainder of the semester.
 |6     | *No lectures* | Technical Help | Sprint 2 | Fri 20 Mar 3pm (Project) |
 |7     | *No lectures* | Technical Help | Sprint 3 |  |
 |Easter|
-|8     | <strong>Debugging &amp; Maintenance</strong><ul><li>Debugging &mdash; Strategies For Success</li><li>Refactoring</li></ul> | Technical Help | Sprint 3 |  |
+|8     | <strong>[Debugging &amp; Maintenance](slides/w8-debugging)</strong><ul><li>Debugging &mdash; Strategies For Success</li><li>Refactoring</li></ul> | Technical Help | Sprint 3 |  |
 9     | *No lectures* | Technical Help | Sprint 4 |  |
 |10    | *No lectures* | Technical Help | Sprint 4 |  |
 |11    | *No lectures* | Technical Help | Sprint 4 | Mon 18 May 3pm (Project) |
